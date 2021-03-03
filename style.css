@@ -1,0 +1,17 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+    background: #D3B9A8;
+    
+}
+img{
+    border-radius: 100px;
+}
+a{
+    text-decoration: none;
+
+}
+
+.conteiner{
+    width: 1000px;
+    margin: 0 auto;
+}
