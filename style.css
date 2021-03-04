@@ -5,6 +5,9 @@ body{
     padding: 0;
     color: white;
 }
+header{
+    margin-top: 50px;
+}
 .name{
     display: flex;
 }
