@@ -1,17 +1,76 @@
 body{
     font-family: 'Ubuntu', sans-serif;
-    background: #D3B9A8;
-    
+    background: black;  
+    margin: 0;
+    padding: 0;
+    color: white;
 }
-img{
-    border-radius: 100px;
+header{
+    margin-top: 50px;
+    margin-left: 40px;
+}
+.name{
+    display: flex;
+}
+.name img{
+    border-radius: 500px;
+    border: 2px solid black;
+}
+h1{
+    font-size: 50px;
+    width: 100px;
+    margin-left: 100px;
+    margin-top: 90px;
 }
 a{
     text-decoration: none;
-
+}
+.info a{
+    color: rgba(255, 255, 255, 0.301);
 }
 
 .conteiner{
-    width: 1000px;
+    width: 900px;
     margin: 0 auto;
+}
+article{
+    display: flex;
+    justify-content: center;
+}
+.info--about{
+    width: 450px;
+    margin-left: 50px;
+}
+.block-left{
+    width: 290px;
+}
+.block-right{
+    width: 450px;
+    margin-left: 50px;
+}
+.eng{
+    width: 290px;
+    margin-left: 50px;
+
+}
+.footer{
+    background-color: darkgrey;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+    }
+.footer a{
+    margin-left: 30px;
+}
+.git--link{
+    color: rgb(204, 25, 6);
+    
+}
+h5{
+    margin: 0;
+    margin-left: 30px;
+}
+.git{
+    align-items: center;
 }
