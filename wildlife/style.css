@@ -104,7 +104,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 }
 .header__link-sing:active{
 	background: #8F5613;
-	border: 1px solid #8F5613;
+	border: 2px solid #8F5613;
 }
 .survival__name{
 	font-size: 48px;
@@ -129,11 +129,11 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 }
 .donate:hover{
 	background: #E78E29;
-	border: 1px solid #E78E29;
+	border: 2px solid #E78E29;
 }
 .donate:active{
 	background: #8F5613;
-	border: 1px solid #8F5613;
+	border: 2px solid #8F5613;
 }
   /* style header end*/
 .main{
