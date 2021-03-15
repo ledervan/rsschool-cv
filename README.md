@@ -1,1 +1,1 @@
-https://ledervan.github.io/rsschool-cv/
+https://ledervan.github.io/rsschool-cv/wildlife/
